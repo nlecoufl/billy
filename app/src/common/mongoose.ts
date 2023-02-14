@@ -10,6 +10,7 @@ export class Mongoose {
     };
 
     public static async initDB() {
+        mongoose.set('strictQuery', false);
         return mongoose.connect("mongodb://"+process.env.MONGO_URI);
     }
     public static async closeCon() {
