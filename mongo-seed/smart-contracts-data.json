@@ -1,0 +1,170 @@
+[
+  {
+    "eventId": 1,
+    "collectionName": "Mouse On",
+    "smartContract": {
+      "crowdsale": "KT1AKqxCJH9EPimNm1wo1BEgG9bFRgptJwkk",
+      "collection": "KT1Apf8CPkYBe3bRuTCET6A4NhnosX2BAnp9",
+      "multisig": "KT1Aer6TxNwoMJejoqsNP8TEN7J6STgMtJcA",
+      "saleParams": {
+        "isPresale": false,
+        "metadataList": [],
+        "pricePerToken": 4,
+        "maxMintPerUser": 5,
+        "saleSize": 500,
+        "saleCurrency": {
+          "xtz": null
+        },
+        "startTime": 1656626400,
+        "endTime": 1657490400
+      }
+    }
+  },
+  {
+    "eventId": 2,
+    "collectionName": "Web 3 Classic Collection",
+    "smartContract": {
+      "crowdsale": "KT1BKqxCJH9EPimNm1wo1BEgG9bFRgptJwop",
+      "collection": "KT1Gpf8CPkYBe3bRuTCET6A4NhnosX2BAnp6",
+      "multisig": "KT1Itr6TxNwoMJejoqsNP8TEN7J6STgMtJcP",
+      "saleParams": {
+        "isPresale": false,
+        "metadataList": [],
+        "pricePerToken": 0,
+        "maxMintPerUser": 2,
+        "saleSize": 100,
+        "saleCurrency": {
+          "xtz": null
+        },
+        "startTime": 1657404000,
+        "endTime": 1658181600
+      }
+    }
+  },
+  {
+    "eventId": 3,
+    "collectionName": "Standard meetup tickets",
+    "smartContract": {
+      "crowdsale": "KT1CKqxCJH9EPimNm1wo1BEgG9bFRgptJwop",
+      "collection": "KT1Lpf8CPkYBe3bRuTCET6A4NhnosX2BAnp9",
+      "multisig": "KT1Ltr5TxNwoMJejoqsNP8TEN7J6STgMtJcF",
+      "saleParams": {
+        "isPresale": false,
+        "metadataList": [],
+        "pricePerToken": 0,
+        "maxMintPerUser": 2,
+        "saleSize": 60,
+        "saleCurrency": {
+          "xtz": null
+        },
+        "startTime": 1656885600,
+        "endTime": 1658354400
+      }
+    }
+  },
+  {
+    "eventId": 4,
+    "collectionName": "Standing tickets collection",
+    "smartContract": {
+      "crowdsale": "KT1ffDxCJH9EPimNm19ifBEgG9bFRgptJwop",
+      "collection": "KT2jH58CPkYBe3bRuTCET6A4NhnosX2BAnp9",
+      "multisig": "KT1T7UyTxNwoMJejoqsNP8TEN7J6STgMtJ89",
+      "saleParams": {
+        "isPresale": false,
+        "metadataList": [],
+        "pricePerToken": 50,
+        "maxMintPerUser": 6,
+        "saleSize": 5000,
+        "saleCurrency": {
+          "xtz": null
+        },
+        "startTime": 1651615200,
+        "endTime": 1659045600
+      }
+    }
+  },
+  {
+    "eventId": 4,
+    "collectionName": "Seated tickets collection",
+    "smartContract": {
+      "crowdsale": "KT1h6KxCJH9EPimNm19ifBEgG9bFRgptJLk7",
+      "collection": "KT2DV68CPkYBe3bRuTCET6A4NhnosX2BAlo8",
+      "multisig": "KT17HUyTxNwoMJejoqsNP8TEN7J6STgMt40H",
+      "saleParams": {
+        "isPresale": false,
+        "metadataList": [],
+        "pricePerToken": 50,
+        "maxMintPerUser": 6,
+        "saleSize": 5000,
+        "saleCurrency": {
+          "xtz": null
+        },
+        "startTime": 1651615200,
+        "endTime": 1659045600
+      }
+    }
+  },
+  {
+    "eventId": 5,
+    "collectionName": "Pass 1 jour",
+    "smartContract": {
+      "crowdsale": "KT1h6KxCJH9EPimNm19ifBEgG9bFRgptab6h",
+      "collection": "KT1DV68CPkYBe3bRuTCET6A4NhnosX2BA8bv",
+      "multisig": "KT17HUyTxNwoMJejoqsNP8TEN7J6STgMi80L",
+      "saleParams": {
+        "isPresale": false,
+        "metadataList": [],
+        "pricePerToken": 80,
+        "maxMintPerUser": 6,
+        "saleSize": 10000,
+        "saleCurrency": {
+          "xtz": null
+        },
+        "startTime": 1672527600,
+        "endTime": 1688594400
+      }
+    }
+  },
+  {
+    "eventId": 5,
+    "collectionName": "Pass 2 jours",
+    "smartContract": {
+      "crowdsale": "KT1h6KxCJH9EPimNm19ifBEgG9bFRgptabgs",
+      "collection": "KT1DV68CPkYBe3bRuTCET6A4NhnosX2B92hdd",
+      "multisig": "KT17HUyTxNwoMJejoqsNP8TEN7J6STgMnn5",
+      "saleParams": {
+        "isPresale": false,
+        "metadataList": [],
+        "pricePerToken": 100,
+        "maxMintPerUser": 6,
+        "saleSize": 10000,
+        "saleCurrency": {
+          "xtz": null
+        },
+        "startTime": 1672527600,
+        "endTime": 1688594400
+      }
+    }
+  },
+  {
+    "eventId": 5,
+    "collectionName": "Pass 3 jours",
+    "smartContract": {
+      "crowdsale": "KT1h6KxCJH9EPimNm19ifBEgG9bFRjna7dhf",
+      "collection": "KT1DV68CPkYBe3bRuTCET6A4Nhnoslkj974g1",
+      "multisig": "KT17HUyTxNwoMJejoqsNP8TEN7J6STgjj81",
+      "saleParams": {
+        "isPresale": false,
+        "metadataList": [],
+        "pricePerToken": 120,
+        "maxMintPerUser": 6,
+        "saleSize": 10000,
+        "saleCurrency": {
+          "xtz": null
+        },
+        "startTime": 1672527600,
+        "endTime": 1688594400
+      }
+    }
+  }
+]
